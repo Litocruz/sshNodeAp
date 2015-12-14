@@ -1,0 +1,26 @@
+{
+  "name": "nodeApTest",
+  "version": "0.0.1",
+  "description": "control de puntos de acceso por ssh",
+  "main": "ssh.js",
+  "dependencies": {
+    "ssh2": "~0.4.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Litocruz/sshNodeAp.git"
+  },
+  "keywords": [
+    "ssh",
+    "ap"
+  ],
+  "author": "litocruz",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Litocruz/sshNodeAp/issues"
+  }
+}
